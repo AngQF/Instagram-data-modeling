@@ -36,4 +36,5 @@ The project is using the SQLAlchemy Python library to generate the database.
 - Please add at least 4 models with all of its properties.
 - Degenerate the diagram.png file at the end by running `$ python3 models.py` on the console.
 
-
+EXPLICACIÓN:
+Diagrama de ejemplo de instagram
